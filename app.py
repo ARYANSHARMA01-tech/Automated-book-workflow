@@ -1,5 +1,4 @@
 import streamlit as st
-
 import os
 from datetime import datetime
 
@@ -12,7 +11,7 @@ import asyncio, sys
 if sys.platform.startswith('win'):
     asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
-api_key = st.secrets["GEMINI_API_KEY"]
+
 def remove_duplicate_paragraphs(text):
     paragraphs = text.strip().split("\n")
     cleaned = []

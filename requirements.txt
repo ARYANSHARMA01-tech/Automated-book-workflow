@@ -1,8 +1,6 @@
-streamlit
 playwright
-beautifulsoup4
+bs4
 requests
 python-dotenv
 chromadb
 google-generativeai
-html2text
