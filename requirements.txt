@@ -1,0 +1,6 @@
+playwright
+bs4
+requests
+python-dotenv
+chromadb
+google-generativeai
