@@ -79,3 +79,6 @@ def main():
     except Exception as e:
         logging.error(f"❌ Error in workflow: {e}")
         print(f"An error occurred: {e}")
+
+if __name__ == "__main__":
+    main()
