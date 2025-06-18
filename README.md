@@ -3,8 +3,8 @@
 
 This project streamlines the end-to-end process of publishing public domain books using AI and human-in-the-loop workflows. It includes scraping chapters, AI rewriting, human editing, AI reviewing, and final versioning with metadata storage.
 
-<!-- 📹 Video Demo -->
-<iframe src="https://drive.google.com/file/d/1FnlTpbZDH2LL-J1QC20_YaLVkGdgC_01/preview" width="100%" height="480" allow="autoplay"></iframe>
+**DEMO**
+"https://drive.google.com/file/d/1FnlTpbZDH2LL-J1QC20_YaLVkGdgC_01/preview"
 
 
 ## 🚀 Features
