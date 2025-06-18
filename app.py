@@ -1,5 +1,7 @@
 import streamlit as st
 import os
+import chromadb
+
 from datetime import datetime
 
 from scraping.content_scraper import fetch_text_from_url
