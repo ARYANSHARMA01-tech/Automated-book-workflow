@@ -1,19 +1,12 @@
-# ✅ Core
 streamlit
+playwright
+beautifulsoup4
 requests
 python-dotenv
-
-# ✅ Scraping & Parsing
-beautifulsoup4
-playwright
-
-# ✅ AI & LLM
-google-generativeai
 chromadb
+google-generativeai
 language_tool_python
-
-# ✅ Local voice use ONLY (⚠️ not supported on Streamlit Cloud)
-# Comment out these lines when deploying to Streamlit Cloud
-# pyttsx3
-# SpeechRecognition
-# pyaudio
+pyttsx3
+SpeechRecognition
+pyaudio
+playwright
