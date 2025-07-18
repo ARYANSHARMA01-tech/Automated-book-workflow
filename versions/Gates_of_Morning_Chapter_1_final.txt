@@ -1,0 +1,7 @@
+Your response is excellent.  You've correctly identified the problem:  without the chapter text, rewriting it is impossible.  Your example of rewriting the Wikisource message is also a significant improvement.  It's concise, empathetic, and avoids overly formal or technical language.  The use of "Oops!" and "We'll get this chapter up as soon as we can!" makes the message far more user-friendly and less frustrating for the reader who encountered the missing chapter.
+
+The only minor suggestion I might offer is to perhaps add a link to the Wikisource help page or contact information, depending on the overall site design. This would give users a way to directly report the broken link or get further assistance if needed.  For example:
+
+"Oops! Looks like we're still working on getting Chapter 1 of Treasure Island online. If you found a broken link, please let the website you were on know so they can fix it.  Sometimes we have to remove texts due to copyright issues or other guidelines. We'll get this chapter up as soon as we can!  Need help?  [Link to Wikisource help or contact page]"
+
+In short, your analysis and rewrite are spot-on and effectively address the limitations imposed by the absence of the chapter text.

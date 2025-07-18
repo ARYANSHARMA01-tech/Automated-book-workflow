@@ -1,0 +1,79 @@
+2025-06-18 19:56:00,993 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-06-18 19:56:06,768 - INFO - Screenshot taken.
+2025-06-18 19:56:18,169 - INFO - Saved ai_writer version to versions/Gates_of_Morning_Chapter_1_ai_writer.txt
+2025-06-18 19:56:28,590 - INFO - Saved final version to versions/Gates_of_Morning_Chapter_1_final.txt
+2025-06-18 19:56:28,884 - INFO - \u2705 Final version saved.
+2025-06-18 19:59:55,504 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-06-18 19:59:58,605 - INFO - Screenshot taken
+2025-06-18 20:00:09,216 - INFO - AI content generated
+2025-06-18 20:00:19,319 - INFO - AI review completed
+2025-06-18 20:00:24,901 - INFO - Saved ai_writer version to versions/Gates_of_Morning_Chapter_1_ai_writer.txt
+2025-06-18 20:00:24,904 - INFO - Saved human version to versions/Gates_of_Morning_Chapter_1_human.txt
+2025-06-18 20:00:24,906 - INFO - Saved final version to versions/Gates_of_Morning_Chapter_1_final.txt
+2025-06-18 20:00:25,218 - INFO - Final version saved and stored in ChromaDB
+2025-06-18 20:03:52,737 - INFO - Fetched content from https://en.wikisource.org/wiki/Treasure_Island/Part_I/Chapter_I
+2025-06-18 20:03:55,849 - INFO - Screenshot taken
+2025-06-18 20:03:59,270 - INFO - AI content generated
+2025-06-18 20:04:00,191 - INFO - AI review completed
+2025-06-18 20:10:34,906 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-06-18 20:10:39,329 - INFO - Screenshot taken
+2025-06-18 20:10:49,170 - INFO - AI content generated
+2025-06-18 20:10:59,165 - INFO - AI review completed
+2025-06-18 20:11:10,221 - INFO - Saved ai_writer version to versions/Gates_of_Morning_Chapter_1_ai_writer.txt
+2025-06-18 20:11:10,222 - INFO - Saved human version to versions/Gates_of_Morning_Chapter_1_human.txt
+2025-06-18 20:11:10,223 - INFO - Saved final version to versions/Gates_of_Morning_Chapter_1_final.txt
+2025-06-18 20:11:10,589 - INFO - Final version saved and stored in ChromaDB
+2025-06-18 20:11:50,124 - INFO - Fetched content from https://en.wikisource.org/wiki/Treasure_Island/Part_I/Chapter_I
+2025-06-18 20:11:53,075 - INFO - Screenshot taken
+2025-06-18 20:11:55,428 - INFO - AI content generated
+2025-06-18 20:11:57,910 - INFO - AI review completed
+2025-06-18 20:12:10,714 - INFO - Saved ai_writer version to versions/Gates_of_Morning_Chapter_1_ai_writer.txt
+2025-06-18 20:12:10,716 - INFO - Saved human version to versions/Gates_of_Morning_Chapter_1_human.txt
+2025-06-18 20:12:10,716 - INFO - Saved final version to versions/Gates_of_Morning_Chapter_1_final.txt
+2025-06-18 20:12:10,884 - INFO - Final version saved and stored in ChromaDB
+2025-07-11 20:39:33,290 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-11 20:39:47,858 - INFO - Screenshot taken
+2025-07-11 20:40:17,828 - INFO - AI content generated
+2025-07-11 20:40:51,575 - INFO - AI review completed
+2025-07-11 20:41:34,640 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-11 20:41:37,895 - INFO - Screenshot taken
+2025-07-11 20:41:59,037 - INFO - AI content generated
+2025-07-11 20:44:00,310 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-11 20:44:03,481 - INFO - Screenshot taken
+2025-07-11 20:44:33,133 - INFO - AI content generated
+2025-07-11 20:45:11,414 - INFO - AI review completed
+2025-07-11 20:47:30,964 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-11 20:47:32,865 - INFO - Screenshot taken
+2025-07-11 20:47:59,325 - INFO - AI content generated
+2025-07-11 20:48:19,157 - INFO - AI review completed
+2025-07-18 20:31:42,903 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-18 20:40:28,764 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-18 20:40:42,755 - ERROR - Error during chapter processing: BrowserType.launch: Executable doesn't exist at C:\Users\sharm\AppData\Local\ms-playwright\chromium_headless_shell-1179\chrome-win\headless_shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-07-18 20:58:00,629 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-18 20:58:10,527 - INFO - Screenshot taken
+2025-07-18 20:58:43,183 - INFO - AI content generated
+2025-07-18 20:59:08,981 - INFO - AI review completed
+2025-07-18 21:02:46,830 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-18 21:02:49,974 - INFO - Screenshot taken
+2025-07-18 21:03:09,007 - INFO - AI content generated
+2025-07-18 21:03:33,891 - INFO - AI review completed
+2025-07-18 21:05:48,570 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-18 21:05:51,795 - INFO - Screenshot taken
+2025-07-18 21:06:08,771 - INFO - AI content generated
+2025-07-18 21:06:19,165 - INFO - AI review completed
+2025-07-18 21:07:15,032 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-18 21:07:18,289 - INFO - Screenshot taken
+2025-07-18 21:07:47,338 - INFO - AI content generated
+2025-07-18 21:08:26,849 - INFO - AI review completed
+2025-07-18 21:09:19,113 - INFO - Fetched content from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1
+2025-07-18 21:09:22,232 - INFO - Screenshot taken
+2025-07-18 21:09:38,126 - INFO - AI content generated
+2025-07-18 21:10:06,691 - INFO - AI review completed

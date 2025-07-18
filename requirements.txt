@@ -1,0 +1,12 @@
+streamlit
+playwright
+beautifulsoup4
+requests
+python-dotenv
+chromadb
+google-generativeai
+language_tool_python
+pyttsx3
+SpeechRecognition
+pyaudio
+playwright
